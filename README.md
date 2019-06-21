@@ -1,7 +1,7 @@
 # FullStack
 
 ## What is this?
-
+他的技术选型是这样的：Server 端用 Node.js 写就。服务器使用 GraphQL 和 apollo-server 在客户端和服务器之间传递数据，并以类型友好的方式键入以与 Mongo 交互。账户系统则选用 accounts.js。
 This project can be used as a full-stack boilerplate for you to learn some cool things or build your next app off of. It's pretty much a top picks of my favorite tech and best practices. I hope you enjoy it!
 
 If you're trying to expand into some of the technologies I'm using here, star it, fork it and start playing! Feel free to find my email at the bottom of [my site](https://trxrg.com/) and reach out with any questions.
